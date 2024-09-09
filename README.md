@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHAY-0-0-7
 - 👀 I’m interested in CYBER SECURITY,ETHICAL HACKING,CODING IN GENERAL
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++,Basic Linux
 - 💞️ I’m looking to collaborate on helping with medium level python codes
 - 📫 How to reach me pabhaykrishna@gmail.com
 - 😄 Pronouns: he/him
